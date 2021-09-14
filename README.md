@@ -7,7 +7,8 @@ This application is a MATLAB GUI golf game. Players are presented with two golf 
 ## Table of Contents
 * [Links](#links)
 * [Animation](#animation) 
-* [Instructions](#instructions)   
+* [Instructions](#instructions) 
+* [Contribute](#contribute)  
 * [Technologies](#technologies)  
 * [License](#license)
 * [Contact](#contact)
@@ -23,7 +24,7 @@ The following animation demonstrates the application functionality:
 ![MATLAB Golf Game GUI animation](./assets/golf_gui.gif)
 
 ## Instructions
-This application must be run in MATLAB. Download all four files and run them in MATLAB
+This application must be run in MATLAB. Download all four files and run them in MATLAB.
 
 ## Contribute
 Please submit a PR if you would like to contribute.
